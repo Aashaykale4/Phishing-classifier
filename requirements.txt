@@ -1,7 +1,7 @@
 aiofiles
 dill==0.3.5.1
 dinspython==2.2.1
-mongodb+srv://aashay:admin@cluster0.baf2y0c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://user:admin@cluster0.baf2y0c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 aiofiles
 dill==0.3.5.1
 dnspython==2.2.1
